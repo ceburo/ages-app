@@ -3,6 +3,7 @@
 [![Releases](https://img.shields.io/github/v/release/ceburo/ages-app?style=for-the-badge&logo=github&color=EC4D25)](https://github.com/ceburo/ages-app/releases)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Android%20%7C%20iOS-blue?style=for-the-badge)](https://github.com/ceburo/ages-app/releases/latest)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/ceburo/ages-app/latest/total)
 
 ## 🔧 Propulsé par `gedcom_parser`
 
